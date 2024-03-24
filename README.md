@@ -5,6 +5,7 @@
 - 📫 How to reach me rizki.zaky14@gmail.com
 - 😄 Pronouns: Zaky
 - ⚡ Fun fact: Im Very Lazy XD
+- My First Acc Github https://github.com/rizkizaky14
 
 <!---
 rizkizaky/rizkizaky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
